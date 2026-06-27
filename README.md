@@ -23,8 +23,6 @@
 
 Premium Auth UI Kit is an open-source, beautifully designed collection of authentication pages. Designed to feel like a high-end SaaS product (inspired by Linear, Stripe, and Framer), this kit provides a completely Vanilla alternative to heavy React/Tailwind setups without compromising on aesthetics.
 
-![Preview GIF](https://via.placeholder.com/1200x600/EC4899/FFFFFF?text=Animated+Preview+GIF)
-
 ## ✨ Features
 
 - **8 Fully Designed Pages**: Login, Sign Up, Forgot Password, Reset Password, OTP Verification, Email Verification, Success, and 404.
